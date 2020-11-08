@@ -1,4 +1,4 @@
-# tribute
+# Tribute
 
 # A tribute page for for Virgil Van Dijk
 
