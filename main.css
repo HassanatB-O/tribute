@@ -8,7 +8,7 @@ h1{
 }
 #image{
     width: 375px;
-    height: 459.5px;
+    height: auto;
     margin: auto;
     max-width: 100%;
     text-align: center;
