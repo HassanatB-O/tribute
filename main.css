@@ -1,6 +1,6 @@
 #main{
     text-align: center;
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
 }
 h1{
     text-transform: capitalize;
@@ -17,7 +17,7 @@ h1{
 }
 p#img-caption{
     font-size: 18px;
-    font-family: 'Times New Roman', Times, serif !important;
+    font-family: cursive !important;
     color: gainsboro;
 }
 p#tribute-info{
